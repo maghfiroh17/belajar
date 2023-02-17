@@ -1,0 +1,29 @@
+body {
+  font-family: "Monstserrat", sans-serif;
+}
+
+.badge {
+  border-radius: 4px;
+  background-color: #6868ac;
+  color: #fff;
+  padding: 6px;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 1;
+}
+
+hr {
+  opacity: 1;
+  margin-top: 0.63rem;
+  margin-bottom: 0.63rem;
+}
+
+hr:not([size]) {
+  height: 1px;
+  background-color: #6868ac;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+}
